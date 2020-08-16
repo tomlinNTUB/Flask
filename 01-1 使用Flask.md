@@ -1,34 +1,34 @@
 # 01-1 使用Flask
 
+### 1. 範例下載
+```
+<下載>
+  |__ web.zip
+```
 
-### 1. 檔案放置方式
+### 2. 檔案放置方式
 ```
  <web>
    |
    |__ <static>
    |      |__ <css>
-   |      |     |__ main.css
-   |      |     |__ menu.css
-   |      |     |__ color.css
+   |      |     |__ main.css   (使用範例檔案)
+   |      |     |__ menu.css   (使用範例檔案)
+   |      |     |__ color.css  (使用範例檔案)
    |      |
    |      |__ <imgs>
-   |            |__ header.jpg  (1000px * 150px)
+   |            |__ header.jpg  (使用範例檔案)
    |
    |__ <templates>
-   |      |__ index.html 
+   |      |__ index.html   (使用範例檔案)
    |      
    |__ app.py  
 ```
 
 
-### 2. 測試版本
+### 3. 測試版本
 ```
 Python 3.8.1 32-bit
-```
-
-### 3. 範例下載
-```
-<下載>中的 web.zip
 ```
 
 
